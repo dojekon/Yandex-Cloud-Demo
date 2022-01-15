@@ -22,7 +22,7 @@ while True:
     if req['done']: break
     print("Not ready")
 
-# Show the full server response in JSON format.
+# Print done if operation done :)
 print("Done!")
 
 # Save only text from recognition results.
